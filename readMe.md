@@ -19,9 +19,9 @@ I am Ghani Rehman, a Full Stack Engineer specializing in building scalable, high
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ghani036&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ghani036&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ghani036&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](./profile/stats.svg)<br/>
+![](./profile/streak.svg)<br/>
+![](./profile/top-langs.svg)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=Ghani036&icon=0&color=2f80ed)
